@@ -26,6 +26,7 @@ a {
 html,
 body {
   height: 100%;
+  color: #2c3e50;
 }
 
 #page-content {
@@ -34,4 +35,9 @@ body {
 
 #sticky-footer {
   flex-shrink: none;
+}
+
+#custom-card {
+  background-color: #e9ecef;
+  border: 0px;
 }
